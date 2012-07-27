@@ -4,3 +4,9 @@ torch relay runner.
 
 This project contains that complete log file.
 
+Files
+-----
+
+* gps.txt - all latitude and longitude points whilst the torch was moving.
+* gps-complete.txt - complete timestamp, latitude, longitude, and torch status
+
