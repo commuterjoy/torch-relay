@@ -22,3 +22,10 @@ Notes
 - The first 30 minutes of data is missing because [I only realised](https://twitter.com/egzplicit/status/203754238105497600) that nobody might be recording this information for posterity on the morning that torch was lit.
 - A raw dump of the feed is available from [matt.chadburn.co.uk/projects/torchrelay/gps.tar.gz](http://matt.chadburn.co.uk/projects/torchrelay/gps.tar.gz)
 
+Sample
+------
+
+Here's the 24th July data passed through http://www.gpsvisualizer.com/
+
+![Route map](https://raw.github.com/commuterjoy/torch-relay/master/assets/2012-07-24-route-map.png)
+
