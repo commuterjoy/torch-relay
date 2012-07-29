@@ -6,6 +6,8 @@ This project contains the complete log files.
 
 The torch ran from Saturday, 19th May 2012 to Friday, 27th July 2012 (70 days).
 
+The last active co-ordinate is located in the middle of Tower Bridge, scene of the David Beckham opening ceremony set piece, so sadly the GPS data doesn't lead right up to the stadium and Heatherwick's cauldren.
+
 Files
 -----
 
