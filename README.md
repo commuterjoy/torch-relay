@@ -12,6 +12,8 @@ Files
 
 - gps.txt - all latitude and longitude points whilst the torch was moving.
 - gps-complete.txt - complete timestamp, latitude, longitude, and torch status
+- ./bearers - list of the torch bearers per day
+- ./by-date - gps data by date
 
 Notes
 -----
