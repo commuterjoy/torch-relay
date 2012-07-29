@@ -4,6 +4,8 @@ torch relay runner for the London 2012 Olympic Games.
 
 This project contains the complete log files.
 
+The torch ran from Saturday, 19th May 2012 to Friday, 27th July 2012 (70 days).
+
 Files
 -----
 
