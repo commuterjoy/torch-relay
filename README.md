@@ -1,4 +1,3 @@
-
 Every 2 mins for the last two months I've logged the live location of the
 torch relay runner for the London 2012 Olympic Games.
 
@@ -25,14 +24,14 @@ Notes
 Bad Data
 --------
 
-The isn't perfect.
+The data isn't perfect.
 
 For example, the data shows quite a few duplicate entries, Eg. 
 
     sort gps.txt  | uniq -c | sort
 
 The main outliers seem to be the following, which you might want to
-remote before using this data.
+remove before using this data.
 
     54.642830595671, -3.5335360166058
     52.60276677965, -2.557581837071
