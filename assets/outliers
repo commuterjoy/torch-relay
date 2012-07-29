@@ -1,5 +1,8 @@
 # file containing duplicate co-ordinate entries you probably want to
-# remove from the data files before processing
+# remove from the data files before processing, Eg.
+#
+# grep -f assets/outliers -v gps.txt
+
 54.642830595671, -3.5335360166058
 52.60276677965, -2.557581837071
 52.054212538206, -1.7763742603503
