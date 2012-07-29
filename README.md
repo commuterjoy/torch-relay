@@ -24,7 +24,7 @@ Notes
 Bad Data
 --------
 
-The isn't perfect.
+The data isn't perfect.
 
 For example, the data shows quite a few duplicate entries, Eg. 
 
